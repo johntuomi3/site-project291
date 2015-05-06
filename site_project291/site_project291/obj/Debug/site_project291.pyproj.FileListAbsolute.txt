@@ -11,3 +11,16 @@ c:\users\john\documents\visual studio 2013\Projects\site_project291\site_project
 c:\users\john\documents\visual studio 2013\Projects\site_project291\site_project291\bin\wfastcgi.py
 c:\users\john\documents\visual studio 2013\Projects\site_project291\site_project291\obj\Debug\web.config
 c:\users\john\documents\visual studio 2013\Projects\site_project291\site_project291\obj\Debug\web.debug.config
+C:\Users\jtuomi\Documents\GitHub\site-project291\site_project291\site_project291\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\jtuomi\Documents\GitHub\site-project291\site_project291\site_project291\obj\Debug\attach_server.py
+C:\Users\jtuomi\Documents\GitHub\site-project291\site_project291\site_project291\obj\Debug\visualstudio_py_debugger.py
+C:\Users\jtuomi\Documents\GitHub\site-project291\site_project291\site_project291\obj\Debug\visualstudio_py_repl.py
+C:\Users\jtuomi\Documents\GitHub\site-project291\site_project291\site_project291\obj\Debug\visualstudio_py_util.py
+C:\Users\jtuomi\Documents\GitHub\site-project291\site_project291\site_project291\obj\Debug\__init__.py
+C:\Users\jtuomi\Documents\GitHub\site-project291\site_project291\site_project291\obj\Debug\__main__.py
+C:\Users\jtuomi\Documents\GitHub\site-project291\site_project291\site_project291\bin\AzureSetup.cfg
+C:\Users\jtuomi\Documents\GitHub\site-project291\site_project291\site_project291\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\jtuomi\Documents\GitHub\site-project291\site_project291\site_project291\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\jtuomi\Documents\GitHub\site-project291\site_project291\site_project291\bin\wfastcgi.py
+C:\Users\jtuomi\Documents\GitHub\site-project291\site_project291\site_project291\obj\Debug\web.config
+C:\Users\jtuomi\Documents\GitHub\site-project291\site_project291\site_project291\obj\Debug\web.debug.config
