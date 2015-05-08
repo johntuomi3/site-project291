@@ -244,7 +244,7 @@ body
     src: url('../fonts/VCR-OSD.ttf');
 }
 
-.blog-container h1, h2, h3, h4, h5, h6, p, li {
+.blog-container h1, h2, h3, h4, h5, h6, p, li, hr {
     font-family: 'VCR';
     color:#33ff66;
 }
@@ -253,3 +253,19 @@ body
     font-size:medium;
 }
 
+.blog-feed-index ul {
+    list-style: none;
+}
+
+.blog-feed {
+    float: right;
+    border: rgb(8, 255, 8);
+    border-width: medium;
+    border-style: dotted;
+}
+
+.blog-feed ul {
+    list-style:none;
+    float:none;
+    padding: 10px;
+}
